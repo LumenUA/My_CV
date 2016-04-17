@@ -1,0 +1,13 @@
+.letter {
+color: red; /* Цвет символа */
+font-size: 200%; /* Размер шрифта */
+} 
+p {
+color: rgb(49, 151, 116); /* Цвет текста */
+}
+.img{
+	width: 100%;
+}
+#redex{ 
+	resize: none;
+}
